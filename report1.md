@@ -23,5 +23,6 @@ I have learned the following things from this workshop:
   ```bash
   git config --global http.proxy proxy-url
   git config --global https.proxy proxy-url
-git config --global --unset http.proxy
-git config --global --unset https.proxy
+  git config --global --unset http.proxy
+ 
+```
