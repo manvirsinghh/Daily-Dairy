@@ -1,4 +1,4 @@
-# LMS Daily Report
+# LMS  Report
 
 ## Date: 18/01/2025
 
