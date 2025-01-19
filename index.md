@@ -1,12 +1,11 @@
-# Welcome to My GitHub reports Pages
+# Welcome to the Daily Diary
 
-Explore the available pages:
+## Pages
 
-- [Github workshop report](/home/abc12/Documents/Manvir/Daily-Dairy/Github workshop report.md)
-- [Frppe installation report](/home/abc12/Documents/Manvir/Daily-Dairy/Frappe installation report.md)
-- [LMS](/home/abc12/Documents/Manvir/Daily-Dairy/LMS .md)
-- [LMS setup](/home/abc12/Documents/Manvir/Daily-Dairy/LMS setup.md)
-
+- [index](Github workshop report.md)
+- [index](Frappe installation report.md)
+- [index](LMS.md)
+- [index](LMS setup.md)
 
 
 
