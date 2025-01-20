@@ -56,17 +56,27 @@ This will show our app(library_management) and frappe(default)
 ### let's setup desk of application
 First of all create the all doctypes that needed
 #### Create article doctype
+
 * Step1: search for doctype list in search bar
+
 <br>
 
 * Step 2:click on button +add doctype 
 
+<br>
+
 * Step 3:File module with library management system and doctype name is article.
+
+<br>
 
 * Step 4: Save
 
+<br>
+
 * Step 5:Go to fields
- 
+
+<br>
+
 We can add any number of fields in this doctype with roles and permissions whatever we want to create and give to someone else
 <br>
 
