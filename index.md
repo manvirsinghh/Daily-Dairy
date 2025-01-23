@@ -8,5 +8,6 @@ Here are links to all other files in this folder:
     <li><a href="LMS setup.md">LMS setup</a></li>
     <li><a href="lms.md">LMS</a></li>
     <li><a href="lmsessay.md">lmsessay</a></li>
+    <li><a href="contactmodulefrappe.md">contact module</a></li>
 </ul>
 
