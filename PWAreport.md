@@ -301,5 +301,5 @@ self.addEventListener("activate", (event) => {
 
 ---
 
-This guide walks you through the creation of a fully functional PWA with detailed explanations for each part of the implementation. Happy coding!
+
 
