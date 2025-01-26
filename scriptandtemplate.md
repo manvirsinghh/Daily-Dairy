@@ -2,8 +2,8 @@
 ## DATE.26-01-2025
 
 **Start time:-10:30 am**
-#####Task:-automation script of installation of frappe on virtual environment
-System does not work get stopped working 
+
+##### Task:-automation script of installation of frappe on virtual environment.System does not work get stopped after running the script
 #### script :-
 
 ```bash
