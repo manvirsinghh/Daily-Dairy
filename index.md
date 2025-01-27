@@ -12,6 +12,6 @@ Here are links to all other files in this folder:
     <li><a href="contact module frappe and web page styling .md">contact module frappe and web page styling</a></li>
     <li><a href="PWAreport.md">PWA</a></li>
      <li><a href="experimentwithtemplates">expwithtemplates</a></li>
-      v
+      
 </ul>
 
