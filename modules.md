@@ -8,7 +8,13 @@
 ---
 
 ### **Issue 1:**  
-I have created these fields in the Address doctype. In the Geo module, I have the City and Country doctypes and linked the country field of the Address doctype to the Geo module's country doctype. The OpenStreetMap was added, but it does not show the latitude and longitude when I enter the address.
+I have created these fields in the Address doctype. 
+
+![image](https://github.com/user-attachments/assets/b72a17f5-c5a0-4818-879a-d0f7dfdf4a83)
+
+
+
+In the Geo module, I have the City and Country doctypes and linked the country field of the Address doctype to the Geo module's country doctype. The OpenStreetMap was added, but it does not show the latitude and longitude when I enter the address.
 
 **Paused At:** 10:30 AM  
 **Resumed At:** 12:00 PM
