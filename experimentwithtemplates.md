@@ -3,7 +3,11 @@
 # GNDEC Homepage
 
 ## Hero Section:-
-used this section to add logo
+A Hero Section is the big, eye-catching area at the top of a webpage. It’s the first thing visitors see and is designed to grab attention. It usually includes:
+
+-    A background image or video.
+-    A main heading (like a title).
+-    A short description or message.
 
 
 
@@ -18,7 +22,8 @@ used this section to add logo
   size=93.4 kB
   
 ## Section with Split Image
-This section contains an image and content. The image is on the **right side** of the content.
+A split image section is a layout where the page is divided into two parts, often with an image on one side and text on the other.
+
 It also has content which is as follows :-
 
 About
@@ -36,7 +41,8 @@ Aspect Ratio: .57
 
 size:-38.5kb
 
-## Hero with right image
+## Hero with right image:-
+Hero Section layout where the image is on the right side and the text  is on the left side:
 
 ![new](https://github.com/user-attachments/assets/2b1814a3-bb56-42f2-873a-ba0a9f9e4e21)
 
@@ -52,9 +58,11 @@ Size:37.3kb
 
 
 
-## Section with tabs
+## Section with tabs:-
 
-It has navigation bar with links 
+A section with tabs allows users to switch between different views or content without leaving the page. It's a popular feature for organizing content, such as FAQs, product features, or services.
+
+
 
 1.About us
 -
@@ -112,7 +120,9 @@ Tabs are:-
 5 Downloads
 
 6.Email
-## Slideshow:
+
+## Slideshow:  
+Creating a simple slideshow  that cycles through images is a great way to showcase multiple items on a webpage.
 
 Images :-
 - Image 1
@@ -177,7 +187,8 @@ size:-238.7 kB
 
 
 
-## Markdown
+## Markdown:-
+Markdown is a lightweight markup language used for formatting plain text.
 
 Site designed and maintained by Central Computer Center, GNDEC,Ludhiana
 
